@@ -43,7 +43,6 @@ export default function ContactMe(){
     } catch(err){
       console.log("Error while sending message", err)
     }
-    
   }
 
   return (
