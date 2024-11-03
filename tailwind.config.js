@@ -9,7 +9,11 @@ const {
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "custom-blue": "rgb(37, 150, 190) ",
+      },
+    },
   },
   plugins: [
     function ({ matchUtilities, theme }) {

@@ -27,7 +27,7 @@ export default function Header(){
   }
   
   return(
-    <nav className="bg-white dark:bg-zinc-900  bg-opacity-100 flex justify-between max-w-5xl mx-auto sticky top-0  z-50  py-6 " >
+    <nav className="bg-white dark:bg-zinc-900  flex justify-between max-w-5xl mx-auto sticky top-0 z-40 py-6 backdrop-blur-md bg-opacity-80  " >
 
       {/* <div className="hidden lg:flex text-sm font-normal  gap-8 bg-zinc-800 border border-zinc-700/60 items-center px-4 py-2 rounded-2xl  text-zinc-50">
         <a href="/" >

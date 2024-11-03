@@ -91,9 +91,9 @@ const WorkData = [
     timeline:"June 2024 - Present",
     location:"Remote",
     description:[
-      "Built and optimized an e-commerce platform using MongoDB and React, enhancing product management and streamlining the sales process",
-      "Developed a customer analytics dashboard to track user behavior, sales targets, and key performance metrics, driving data-driven business decisions",
-      "Implemented inventory analytics to monitor stock levels and forecast demand, reducing costs and improving operational efficiency"
+      "Designed and optimized an e-commerce platform, enhancing product management and streamlining sales operations",
+      "Developed a customer analytics dashboard to track user behavior, sales, and KPIs, empowering data-driven decisions",
+      "Integrated inventory analytics for demand forecasting and stock level monitoring, reducing costs and boosting efficiency"
     ]
   },
   {
@@ -106,31 +106,31 @@ const WorkData = [
 
     ]
   }
-  ,{ title: "Area Manager / Software Engineer Intern",
+  ,{ title: "Area Manager (Software Engineering & Operations)",
     company:"Amazon",
     timeline: "May 2023 - Aug 2023",
     location: "Toronto, ON",
-    description:["Developed a predictive analytics software dashboard using Pandas, scikit-learn and PostgreSQL, enhancing the first pass yield (FPY) of the linear sorter by 25%",
-      "Designed a real-time volume prediction algorithm, optimizing sorter operations by reducing bottlenecks and improving throughput",
-      "Deployed a custom LiDAR using pyLidar for outbound trailer volume calculations, leading to an 18% improvement in utilization and reducing operational costs by $9,000 per day"
+    description:["Developed a predictive analytics dashboard that improved the first pass yield (FPY) of the linear sorter by 25%, enhancing sorting accuracy and efficiency",
+      "Designed a real-time volume prediction algorithm to optimize sorter operations, effectively reducing bottlenecks and increasing throughput",
+      "Deployed a custom LiDAR system for outbound trailer volume calculations, achieving an 18% boost in trailer utilization and reducing operational costs by $9,000 daily"
     ]
   },
   { title: "Software Engineer Intern",
     company:"CGI",
     timeline: "Jan 2023 - Apr 2023",
     location: "Toronto, ON",
-    description:["Architected a full-stack CMS for retail electronics inventory using Node.js, Express, React, and MongoDB",
-      " Developed RESTful APIs for real-time inventory management, improving operational efficiency",
-      "Deployed on AWS Cloud, ensuring high availability, scalability, and cost optimization"
+    description:["Designed a full-stack CMS for retail electronics inventory enhancing data accuracy and operational efficiency",
+      " Developed RESTful APIs to enable real-time inventory tracking, streamlining inventory management processes",
+      "Integrated cloud deployment solutions, enhancing system reliability, scalability, and ensuring secure data management"
     ]
   },
   { title: "Software Engineer Intern",
     company:"AMD",
     timeline: "May 2022 - Dec 2022",
     location: "Toronto, ON",
-    description:["Automated over 100 testing procedures by developing Perl and Bash scripts, integrating them with existing CI/CD pipelines",
-      "Collaborated with the Design Verification team to optimize testing frameworks for various DUTs using Verilog and UVM for functional simulation and validation",
-      "Implemented advanced server stress tests using custom bash scripts and Linux performance monitoring tools such as perf and htop, resulting in 10% performance boost and improved system reliability"
+    description:["Automated over 100 testing procedures with Perl and Bash scripts, integrating them with existing CI/CD pipelines to improve testing efficiency",
+      "Collaborated with the Design Verification team to enhance testing frameworks for various DUTs using Verilog and UVM , supporting functional simulation and validation",
+      "Conducted advanced server stress tests with custom bash scripts and Linux performance tools"
     ]
   }
 ]
