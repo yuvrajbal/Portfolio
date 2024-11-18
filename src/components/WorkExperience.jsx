@@ -106,7 +106,7 @@ const WorkData = [
 
     ]
   }
-  ,{ title: "Software Engineering & Operations Intern",
+  ,{ title: "Software Engineering Intern",
     company:"Amazon",
     timeline: "May 2023 - Aug 2023",
     location: "Toronto, ON",
@@ -124,7 +124,7 @@ const WorkData = [
       "Integrated cloud deployment solutions, enhancing system reliability, scalability, and ensuring secure data management"
     ]
   },
-  { title: "Silicon Design Engineering Intern",
+  { title: "Software Engineering Intern",
     company:"AMD",
     timeline: "May 2022 - Dec 2022",
     location: "Toronto, ON",
