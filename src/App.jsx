@@ -7,7 +7,7 @@ import WorkPage from './pages/WorkPage'
 function App() {
 
   return (
-    <main className='bg-white dark:bg-zinc-900 min-h-screen'>
+    <main className='bg-gray-50 dark:bg-zinc-900 min-h-screen'>
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Layout />}>
